@@ -1,7 +1,7 @@
 # blogify
 A Full Stack Online Blog Application
 
-This site is live at - https://blogify-bishal.vercel.app/
+This site is not live
 <br />
 
 ## Tech Stack 🗃
